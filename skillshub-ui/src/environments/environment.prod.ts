@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: '/api'
+  apiUrl: 'https://skillhub-api-crg3hvhhbve7cwe7.centralindia-01.azurewebsites.net/api'
 };
